@@ -240,15 +240,16 @@ Environment Configuration:
 
 - Configured DNS records (MX, SPF) 
 
-- Created 20 cloud users 
+- Created 10 cloud users 
 
 - Assigned licenses based on department roles 
 
  
 
-📷 Screenshot Placeholder: 
 
-[INSERT SCREENSHOT – M365 Users & Licenses Here] 
+
+
+<img width="1646" height="1035" alt="AD-Cloud-Licenses" src="https://github.com/user-attachments/assets/b9ce0b20-cfb2-4bb0-ad4f-e1856d7409ce" />
 
  
 
@@ -327,10 +328,9 @@ Blocked automatic external forwarding to prevent data leakage.
 - Tested user MFA registration process 
 
  
+<img width="1353" height="1072" alt="AD-MFA-USERS" src="https://github.com/user-attachments/assets/7163af61-e487-43a7-96ff-eba178f75b9f" />
 
-📷 Screenshot Placeholder: 
-
-[INSERT SCREENSHOT – MFA Settings Here] 
+ 
 
  
 
