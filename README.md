@@ -275,9 +275,9 @@ I configured Azure AD Connect to synchronize on-premises Active Directory with M
 
 Get-ADSyncScheduler
 
-<img width="1266" height="673" alt="AD-Powershell" src="https://github.com/user-attachments/assets/b12f4e43-02e5-499a-ba34-2ce188685009" />
+<img width="1266" height="673" alt="AD-Powershell" src="https://github.com/user-attachments/assets/b12f4e43-02e5-499a-ba34-2ce188685009"/>
 
- https://github.com/wiselevis/Active-directory-Hybrid-Lab/edit/main/README.md
+ h
 
 ### 6️⃣ Exchange Online Administration 
 
