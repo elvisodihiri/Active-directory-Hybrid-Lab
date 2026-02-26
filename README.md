@@ -253,6 +253,27 @@ Environment Configuration:
  
 
 --- 
+## 🔄 Hybrid Identity – On-Prem AD to Microsoft Entra ID 
+
+ 
+
+I configured Azure AD Connect to synchronize on-premises Active Directory with Microsoft Entra ID using Password Hash Synchronization. 
+
+ 
+
+### ✅ Verification Performed 
+
+ 
+
+• Successful sync cycles confirmed in Synchronization Service   
+<img width="794" height="625" alt="AD-Miisclient-Snyc" src="https://github.com/user-attachments/assets/7e3fad7b-14d0-4375-8dbf-6e6ac44af751" />
+
+• PowerShell scheduler verified using: 
+
+```powershell 
+
+Get-ADSyncScheduler
+<img width="1266" height="673" alt="AD-Powershell" src="https://github.com/user-attachments/assets/b03bb810-12c5-4849-a0e2-984eda0b2651" />
 
  
 
