@@ -32,13 +32,13 @@ Users: 20
 
 Departments: 
 
-- Management 
+- Managers 
 
 - Finance 
 
-- General Staff 
-
 - IT 
+
+- Staff
 
  
 
@@ -46,7 +46,7 @@ Environment:
 
 - Windows Server (Active Directory Domain Services) 
 
-- Domain: wisetech.local 
+- Domain: WISE01.local 
 
 - Microsoft 365 Tenant 
 
