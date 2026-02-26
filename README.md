@@ -274,7 +274,7 @@ I configured Azure AD Connect to synchronize on-premises Active Directory with M
 
 Get-ADSyncScheduler
 
-<img width="1266" height="673" alt="AD-Powershell" src="https://github.com/user-attachments/assets/b03bb810-12c5-4849-a0e2-984eda0b2651" />
+<img width="1266" height="673" alt="AD-Powershell" src="https://github.com/user-attachments/assets/b12f4e43-02e5-499a-ba34-2ce188685009" />
 
  
 
