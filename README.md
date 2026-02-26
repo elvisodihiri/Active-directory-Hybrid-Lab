@@ -285,7 +285,7 @@ Configured:
 
  
 
-- Shared mailboxes (info@, finance@) 
+- Shared mailboxes (info@, helpdesk@) 
 
 - Send As permissions 
 
@@ -301,7 +301,8 @@ Security Best Practice:
 
 Blocked automatic external forwarding to prevent data leakage. 
 
- 
+ <img width="1860" height="1049" alt="Sharemailbox" src="https://github.com/user-attachments/assets/4ff57603-e911-4b13-b842-ba1eaa0403aa" />
+
 
 
 
@@ -364,7 +365,8 @@ This simulates enterprise-level identity protection.
 
 
 
- 
+ <img width="1664" height="1037" alt="Mfa" src="https://github.com/user-attachments/assets/08dd5a15-0a27-4ba3-b301-3d1bd4afdcd3" />
+
 
 --- 
 
