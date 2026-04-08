@@ -2,7 +2,7 @@
 
  
 
-  Project Overview 
+ ## Project Overview 
 
  
 
@@ -22,7 +22,7 @@ This project was built using a Windows Server virtual machine (VMware) and a Mic
 
  
 
-  Lab Scenario 
+##  Lab Scenario 
 
  
 
@@ -64,11 +64,11 @@ Environment:
 
  
 
-  Active Directory Configuration 
+## Active Directory Configuration 
 
  
 
- 1 OU Structure Design 
+# 1 OU Structure Design 
 
  
 
@@ -109,7 +109,7 @@ WiseTech
 
  
 
- 2️ User & Group Management 
+## 2️ User & Group Management 
 
  
 
@@ -138,7 +138,7 @@ WiseTech
 
  
 
- 3️ NTFS File Server Permissions 
+## 3️ NTFS File Server Permissions 
 
  
 
@@ -181,7 +181,7 @@ Applied proper NTFS permission inheritance and avoided using “Everyone”.
 
  
 
- 4️ Group Policy Implementation (GPO) 
+## 4️ Group Policy Implementation (GPO) 
 
  
 
