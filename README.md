@@ -230,7 +230,7 @@ Environment Configuration:
 
  
 
- 5️ Tenant & Identity Configuration 
+## 5️ Tenant & Identity Configuration 
 
  
 
@@ -277,7 +277,7 @@ I configured Azure AD Connect to synchronize on-premises Active Directory with M
 
 
 
- 6️ Exchange Online Administration 
+## 6️ Exchange Online Administration 
 
  
 
@@ -312,7 +312,7 @@ Blocked automatic external forwarding to prevent data leakage.
 
  
 
- 7️ Multi-Factor Authentication (MFA) 
+## 7️ Multi-Factor Authentication (MFA) 
 
  
 
@@ -337,7 +337,7 @@ Blocked automatic external forwarding to prevent data leakage.
 
  
 
- 8️ Conditional Access Policy 
+## 8️ Conditional Access Policy 
 
  
 
@@ -372,7 +372,7 @@ This simulates enterprise-level identity protection.
 
  
 
-  SharePoint Online Configuration 
+##  SharePoint Online Configuration 
 
  
 
@@ -396,7 +396,7 @@ This simulates enterprise-level identity protection.
 
  
 
-  Microsoft Teams Administration 
+##  Microsoft Teams Administration 
 
  
 
@@ -421,7 +421,7 @@ This simulates enterprise-level identity protection.
 
  
 
-  Security & Governance Implementation 
+##  Security & Governance Implementation 
 
  
 
@@ -493,7 +493,7 @@ Leaver:
 
  
 
-  Troubleshooting Scenarios Tested 
+##  Troubleshooting Scenarios Tested 
 
  
 
@@ -545,7 +545,7 @@ Through this lab I gained hands-on experience in:
 
  
 
-  Conclusion 
+ ## Conclusion 
 
  
 
